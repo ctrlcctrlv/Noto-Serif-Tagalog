@@ -1726,6 +1726,7 @@ EndChar
 
 StartChar: uni1734
 Encoding: 5940 5940 31
+AltUni2: 001715.ffffffff.0
 GlifName: uni1734
 Width: 170
 VWidth: 1000
